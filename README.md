@@ -39,7 +39,7 @@ Authentication (JWT, OAuth, NextAuth), Payment Gateway Integration
 - 🌐 Portfolio: [gopal-edc.pages.dev](https://gopal-edc.pages.dev)
 - 🔗 LinkedIn: [linkedin.com/in/gopalkrs](https://linkedin.com/in/gopalkrs)
 - 🐙 GitHub: [github.com/gopalkrs](https://github.com/gopalkrs)
-- 🐙 X: [x.com/gopalkrss](https://x.com/gopalkrss)
+- 🔗 X : [x.com/gopalkrss](https://x.com/gopalkrss)
 
 ---
 
