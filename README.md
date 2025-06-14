@@ -4,9 +4,8 @@
 
 ## 💼 About Me
 
-I am a passionate **Full Stack Developer** with 3+ years of experience in building scalable web applications and delivering clean, maintainable code. Currently working as a **Software Engineer** with an experience of 3+ years in the industy, where I build production-grade applications for the banking and insurance sector.
+I am a passionate **Software Developer** with 3+ years of experience and love for solving real-world problems using modern web technologies, scalable architectures, and beautiful user experiences. Currently working as a **Software Engineer** with an experience of 3+ years in the industy, where I build production-grade applications for the banking and insurance sector.
 
-I enjoy solving real-world problems using modern web technologies, scalable architectures, and beautiful user experiences.
 
 ## What I'm Working On
 
