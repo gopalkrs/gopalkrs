@@ -8,10 +8,11 @@ I am a passionate **Full Stack Developer** with 3+ years of experience in buildi
 
 I enjoy solving real-world problems using modern web technologies, scalable architectures, and beautiful user experiences.
 
-## What I'm Working On:
-Tikitix: An event booking platform, looking to learn and integrate new things im learning about recently.
-Apart from the above also learning and going deep in backend tech( currently Java and Spring Boot), will be building projects soon.
----
+## What I'm Working On
+
+Tikitix: An event booking platform, looking to learn and integrate new things I'm learning about recently.
+
+Apart from the above, also learning and going deep in backend tech (currently Java and Spring Boot). Will be building projects soon.
 
 ## 🛠 Tech Stack
 
@@ -28,7 +29,7 @@ Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Prisma, Drizzle ORM, SocketIO
 Git, Vercel, Cloudflare
 
 **Others:**  
-Authentication (JWT, OAuth, NextAuth), Payment Gateway Integration, Zustand, useContext, 
+Authentication (JWT, OAuth, NextAuth), Payment Gateway Integration 
 
 ---
 
